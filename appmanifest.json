@@ -1,0 +1,11 @@
+{
+	"name": "Monkey Business Juicy Rush",
+	"short_name": "Monkey Business Juicy Rush",
+	"description": "A Tower Defense adventure!\n\nPlay as Jackie the monkey and rack up those points! \nIt won't be easy though.\nSometimes, you'll need to think outside the banana peel and target enemies that aren't right in your face. \nUse your monkey smarts!",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [],
+	"screenshots": []
+}

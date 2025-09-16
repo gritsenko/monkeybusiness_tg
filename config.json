@@ -1,0 +1,106 @@
+{
+	"feed": [	3,4,1,4,3	],
+	"baseTimeScale" : 1,
+	"showDebugInfo" : 0,
+	"newItemsRate": 0.5,
+	"turretLevelMultiplier" : 0.8,
+	"laserLevelMultiplier" : 0.7,
+	"levelMultiplier" : 0.1,
+	"hitScore" : 10,
+	"bombRangeX" : 538,
+	"bombRangeY" : 366,
+	"upgradeBasketCapacity" : 9999,
+	"killsToBoss" : 7,
+	"enemies" : [
+		{
+			"index": 0,
+			"len": 7,
+			"frame": 0,
+			"hp": 20,
+			"isBonus": false,
+			"score" : 20,
+			"color" : "pink"
+		},
+		{
+			"index": 1,
+			"len": 6,
+			"frame": 1,
+			"hp": 40,
+			"isBonus": false,
+			"score" : 30,
+			"color" : "blue"
+		},
+		{
+			"index": 2,
+			"len": 5,
+			"frame": 2,
+			"hp": 80,
+			"isBonus": false,
+			"score" : 40,
+			"color" : "green"
+		},
+		{
+			"index": 3,
+			"len": 4,
+			"frame": 3,
+			"hp": 100,
+			"isBonus": false,
+			"score" : 50,
+			"color" : "yellow"
+		},
+		{
+			"index": 4,
+			"len": 3,
+			"frame": 4,
+			"hp": 120,
+			"isBonus": false,
+			"score" : 60,
+			"color" : "orange"
+		},
+		{
+			"index": 5,
+			"len": 3,
+			"frame": 0,
+			"hp": 50,
+			"isBonus": true,
+			"bonusType": "BonusCrio",
+			"score" : 20
+		},
+		{
+			"index": 6,
+			"len": 3,
+			"frame": 0,
+			"hp": 50,
+			"isBonus": true,
+			"bonusType": "BonsuBomb",
+			"score" : 20
+		},
+		{
+			"index": 7,
+			"len": 3,
+			"frame": 0,
+			"hp": 50,
+			"isBonus": true,
+			"bonusType": "BonsuPack",
+			"score" : 20
+		},
+		{
+			"index": 8,
+			"len": 3,
+			"frame": 0,
+			"hp": 50,
+			"isBonus": true,
+			"bonusType": "BonsuShock",
+			"score" : 20
+		},
+		{
+			"index": 9,
+			"len": 3,
+			"frame": 0,
+			"hp": 50,
+			"isBonus": true,
+			"bonusType": "SuperBonusPack",
+			"score" : 100
+		}
+	]
+}
